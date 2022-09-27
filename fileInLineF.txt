@@ -1,1 +1,16 @@
+<<<<<<< HEAD
 Hello,
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Hello,
+=======
+Hi Teacher,
+>>>>>>> b6b6c93 (update)
+=======
+Hi Teacher,
+=======
+Hello,
+>>>>>>> lineF
+>>>>>>> f662300b0c37b24d621caa8aa8d040ad2261501c
+>>>>>>> 8c0afebe69a7ba37b501016e007c100160935a43
