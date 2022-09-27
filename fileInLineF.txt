@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Hello,
-=======
-Hi Teacher,
->>>>>>> b6b6c93 (update)
-=======
-Hi Teacher,
->>>>>>> b6b6c93 (update)
+xin chao
